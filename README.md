@@ -27,7 +27,7 @@ What we perceived are called data. Data comes from process. There are many type 
 
 In mathematics, there is a useful methods to model these kind of process. It is called differential equation. Consider an electrical circuit given by Figure 1. Many real world phenomenons can be modeled using electrical circuit. Not only to model electrical networks, it can also model neurons as its behavior resemble capacitors. The circuit in the figure in particular is called RLC circuit. The circuit has no source and at first the current is 0 and the capacitor voltage is 5 V.
 
-![Figure 1]("Figure1.png")
+![Figure 1](Figure1.png)
 
 Using Kirchhoff's law, the mathematical model is
 
